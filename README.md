@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I'm studying web and mobile development. I want to become a fullstack developer, then specialize in Blockchain <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am 
-from Africa.I live in Togo. In the city of LOME
-- :telescope: I am training in web and mobile web development delivered By Simplon.co(https://simplon.co/) at Energy Generation(https://www.energy-generation.org/)
+Physician, I became confident in programming when i discovered *FORTRAN* (My first programming Language) linear Algebra and Algotthme during my study in Physics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I am now a  web developer certify By Simplon.co(https://simplon.co/).
+
+- :computer: Deep diving my computer science fundamental's comprehension By completing ALX & Holberton School Software Engineerng program.
 
 - :seedling: Exploring Technical and Entreneurial Content Writing.I would like to bring innovative digital solutions to the educational and agricultural sector in my country.
 
