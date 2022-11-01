@@ -65,4 +65,4 @@ Physician, I became confident in programming when i discovered *FORTRAN* (My fir
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bakugo90&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakugo90&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakugo90&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
