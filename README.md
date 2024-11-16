@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm student in Physics passionate about software Development. <br>Currently a software developer i'm focusing on server-side programming.<br>I have already work on several project using Php, Python and JavaScript.<br>My ultimate goal e is to be able to build Software that transcends generations<br> and makes life easier for people.<br><br>I am constantly seeking new challenges and opportunities to grow, <br>and I thrive in collaborative environments where I can learn from others.
+Engineer by Day and Scientist by night 
 
 
 ## 🌐 Socials:
